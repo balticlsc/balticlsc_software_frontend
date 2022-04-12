@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,600,800&display=swap');
+@import url('../../node_modules/startbootstrap-sb-admin-2/css/sb-admin-2.min.css');
+
+.btn.btn-success[disabled] {
+    background-color: #c7e2c7;
+    border-color: #c7e2c7;
+}
+
+.btn.btn-primary[disabled] {
+    background-color: #b1bbf3;
+    border-color: #b1bbf3;
+}
